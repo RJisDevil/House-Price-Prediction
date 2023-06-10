@@ -1,2 +1,2 @@
-# Rainfall-Prediction
-Rainfall prediction using python language with classification models.
+# House Price-Prediction
+House prices prediction using python language with regression models.
